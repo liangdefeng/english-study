@@ -7,12 +7,19 @@
 05. rustic
 06. delivery
 07. cultivate
+    cultivate good study habits
+    cultivate one's mind
 08. abyss
+	in the abyss of despair	
+	hell
+	abysm	
 09. snowy
 10. magnitude
+    the magnitude of the problem        
 11. villa
 12. orchard
 13. ravine
+    gorge
 14. resource
 15. confine
 16. longitude
