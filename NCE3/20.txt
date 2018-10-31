@@ -1,5 +1,17 @@
-duke
-marquis
-earl
-viscount
-baron
+01. lord
+    duke
+    marquis
+    earl
+    viscount
+    baron
+02. overland
+    = by land
+    by sea / by air
+    by bus / train / car / ship / boat / plane etc.
+    on foot
+    drive (from...) to
+    fly (from ...) to 
+    sail (from ...) to
+    take a bus / taxi / train / ship / boat / plane ect.
+
+
