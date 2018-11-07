@@ -8,7 +8,15 @@
 08. offense
 09. dismiss
 10. deception
+    
 11. anecdote
+    story
+    tale
+    narrative
+    narration
+    episode
+    joke
+    saga    
 12. heroism
 13. inability
     
