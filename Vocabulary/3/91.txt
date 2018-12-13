@@ -1,7 +1,13 @@
 01. exclude
+	preclude
+	refuse
 02. impertinent
-03. affectation
+	rule
+	discourteous
+	impolite	
+03. affectation	
 04. chaste
+  	
 05. intuition
 06. mingle
 07. disinterested
