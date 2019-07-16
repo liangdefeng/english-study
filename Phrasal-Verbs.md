@@ -1,9 +1,22 @@
-Separable Phrasal Verbs.
+# Separable Phrasal Verbs.
 
-blow up - explode - The terrorists tried to blow up the railroad station.
-bring up - mention a topic - My mother brought up that little matter of my prison record again.
-bring up - raise children - It isn't easy to bring up children nowadays.
-call off - cancel - They called off this afternoon's meeting.
+## blow up 
+explode.  
+The terrorists tried to blow up the railroad station.
+  
+## bring up 
+mention a topic.  
+My mother brought up that little matter of my prison record again.
+
+## bring up 
+raise children.  
+It isn't easy to bring up children nowadays.
+
+
+## call off 
+cancel.  
+They called off this afternoon's meeting.
+
 do over - repeat a job - Do this homework over.
 fill out - complete a form - Fill out the application form and mail it in.
 fill up - fill to capacity - She filled up the grocery cart with free food.
